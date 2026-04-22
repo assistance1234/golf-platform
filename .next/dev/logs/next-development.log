@@ -1,0 +1,14 @@
+{"timestamp":"00:00:02.492","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:30.897","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:16:15.280","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:16:16.533","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:17:40.462","source":"Server","level":"LOG","message":"✓ Compiled in 132ms"}
+{"timestamp":"00:17:50.246","source":"Server","level":"LOG","message":"✓ Compiled in 83ms"}
+{"timestamp":"00:18:07.842","source":"Server","level":"LOG","message":"✓ Compiled in 65ms"}
+{"timestamp":"00:18:09.367","source":"Server","level":"LOG","message":"✓ Compiled in 149ms"}
+{"timestamp":"00:19:42.227","source":"Server","level":"LOG","message":"✓ Compiled in 62ms"}
+{"timestamp":"00:19:42.977","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:19:44.108","source":"Server","level":"LOG","message":"✓ Compiled in 81ms"}
+{"timestamp":"00:22:16.779","source":"Browser","level":"ERROR","message":"unhandledRejection: AxiosError: Request failed with status code 500"}
+{"timestamp":"00:22:16.835","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31m⨯ unhandledRejection: AxiosError: Request failed with status code 500\\u001b[39m\""}
+{"timestamp":"00:22:16.836","source":"Browser","level":"ERROR","message":"\u001b[31m⨯ unhandledRejection: AxiosError: Request failed with status code 500\u001b[39m"}
