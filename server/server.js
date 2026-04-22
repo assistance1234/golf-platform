@@ -15,8 +15,16 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// ✅ ROOT ROUTE ADD KAR
+app.get("/", (req, res) => {
+  res.send("API is running 🚀");
+});
+
 app.use("/api/auth", authRoutes);
 app.use("/api/scores", scoreRoutes);
 app.use("/api/draw", drawRoutes);
 
-app.listen(5000, () => console.log("Server running on port 5000"));
+// ❗ IMPORTANT: PORT dynamic hona chahiye (Render ke liye)
+const PORT = process.env.PORT || 5000;
+
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
